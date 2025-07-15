@@ -17,8 +17,8 @@ Evaluare: matrice de confuzie, curba ROC
 
 Compararea performanței modelelor
 
-## Fișierele .csv de mari dimensiuni (peste 100 MB) nu au fost incluse în repository din cauza limitelor impuse de GitHub.
+## Fișierele .csv de mari dimensiuni (peste 100 MB) nu au fost incluse în repository din cauza limitelor impuse de GitHub
 
-## Proiect realizat în echipă.
+## Proiect realizat în echipă
 
 
