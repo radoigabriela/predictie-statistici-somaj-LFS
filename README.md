@@ -28,8 +28,8 @@ Pe un eșantion de 5000 (train) și 2000 (test):
 ### 4. Evaluarea performanței
 
 Pentru ambele modele au fost comparate:
-- Matricea de confuzie (vizualizată cu `ggplot2`)
-- Scorurile AUC din `pROC`
+- Matricea de confuzie (vizualizată cu ggplot2)
+- Scorurile AUC din pROC
 - Performanța generală pe baza curbei ROC
 
 ### Fișiere
